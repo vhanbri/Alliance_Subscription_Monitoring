@@ -1,0 +1,30 @@
+.my-table .filter-row {
+  position: relative;
+  top: -40px;
+}
+.d {
+  display: hidden;
+  color: red;
+}
+.my-input::placeholder {
+  color: rgb(173, 173, 173);
+}
+.sorting-asc {
+  color: red;
+  background-color: red;
+}
+
+.sorting-desc {
+  color: rgb(0, 162, 255);
+  background-color: rgb(0, 162, 255);
+}
+
+/* th.sortable {
+  background-color: red;
+  color: red;
+}
+
+.button {
+  background-color: red;
+  color: red;
+} */
